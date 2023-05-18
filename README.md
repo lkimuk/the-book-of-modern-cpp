@@ -1,5 +1,5 @@
 # The Book of Modern C++
-![cover](https://github.com/lkimuk/the-book-of-modern-cpp/images/book-cover.png)
+![cover](https://github.com/lkimuk/the-book-of-modern-cpp/blob/main/images/book-cover.png)
 
 忙处光阴易过，倏忽数月便过矣。
 
