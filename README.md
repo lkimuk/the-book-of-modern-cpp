@@ -13,6 +13,8 @@
 还请大家多多转发传播。
 
 ## Second Published v2.0 (Print edition)
-第二版为打印收藏版，在第一版的基础上修改已知错误，增添新的原创章节。
+第二版分为电子版和打印版。
 
-大概在23秋发布。
+获取地址：[下载](https://github.com/lkimuk/the-book-of-modern-cpp/releases/tag/v2.0)
+
+此处待编辑完善，注意点先看CppMore的发布。
