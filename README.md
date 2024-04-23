@@ -47,10 +47,7 @@
 
 印刷时以 Part VI Performance 为上下卷的分割线，上卷共 602 页，下卷 452 页。书中空白皆是有意留的，告诉商家切勿删除，否则奇偶页会产生问题。
 
-github 主地址：
-https://github.com/lkimuk/the-book-of-modern-cpp
-
 gitee 备用地址:
 https://gitee.com/lkimuk/the-book-of-modern-cpp
 
-**<font color=red>最后再次强调，所有内容全部免费，仅供个人学习使用，当作学习资料打印也全凭自愿。售卖违法，一切售卖行为由售卖者自行承担，与我们无关。严禁售卖！</font>**
+**最后再次强调，所有内容全部免费，仅供个人学习使用，当作学习资料打印也全凭自愿。售卖违法，一切售卖行为由售卖者自行承担，与我们无关。严禁售卖！**
